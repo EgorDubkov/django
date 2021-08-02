@@ -1,0 +1,15 @@
+[
+  {"category": "Стулья",
+    "name": "Стул Качественный",
+    "short_desc": "Прочное дерево",
+    "image": "",
+    "description": "Такое не сломается.",
+    "price": "20.00",
+    "quantity": 5},
+  {"category": "Стулья",
+    "name": "Стул удобный",
+    "short_desc": "Мягкая и приятная обивка",
+    "image": "products_images/product-2.jpg",
+    "description": "Украсит любой дом",
+    "price": "30.00", "quantity": 4}
+]
